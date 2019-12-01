@@ -1,0 +1,36 @@
+#sq,#lg-sq,#thumb,#small,#mid,#ori {
+width: 100%
+}
+
+.title {
+  /* font-family: Gill Sans Extrabold, sans-serif; */
+  text-align: center;
+}
+
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.animal-btn {
+  width: 60px;
+  height: 60px;
+  border-radius: 100px;
+  border-color: #1A4DB3;
+  background-color: #7096E3;
+  color: #FFFFFF;
+  font-family: Gill Sans Extrabold, sans-serif;
+}
+
+.second-title {
+  margin-top: 100px;
+}
+
+.fetch-btn {
+  height: 40px;
+  margin-top: 30px;
+  background-color: #3377FF;
+  color: #FFFFFF;
+  border-radius: 10px;
+
+}
